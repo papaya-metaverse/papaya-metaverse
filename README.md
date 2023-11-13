@@ -3,9 +3,7 @@
   
 
 ### <div align="center">😎 Papaya is an all-in-one blockchain-integrated platform for creators and fans to
-</div>  
-  
-
+</div> 
 - interact ✌🏻  
   
 
