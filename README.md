@@ -1,9 +1,12 @@
 <div align="center">
+<img src="" align="center" height="" width="600" />
 </div>  
   
 
 ### <div align="center">😎 Papaya is an all-in-one blockchain-integrated platform for creators and fans to
-</div> 
+</div>  
+  
+
 - interact ✌🏻  
   
 
@@ -20,7 +23,7 @@ It supports a wide variety of content types, including photos, videos, podcasts,
 <br/>  
 
 
-## Connect with us  
+## Connect with me  
 <div align="center">
 <a href="https://twitter.com/papaya_meta" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -44,10 +47,3 @@ It supports a wide variety of content types, including photos, videos, podcasts,
   
 
 <br/>  
-
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
